@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
+## [0.1.5](https://github.com/georgieprojie/demo/releases/tag/0.1.5) - 2023-02-07
+
+<small>[Compare with 0.1.4](https://github.com/georgieprojie/demo/compare/0.1.4...0.1.5)</small>
+
+### Bug Fixes
+
+- Test ([1b0a448](https://github.com/georgieprojie/demo/commit/1b0a448130dc340e7ff3b02c5c2f0b60f9677c0d) by GH4626). BREAKING CHANGE: This is the body
+
 ## [0.1.4](https://github.com/georgieprojie/demo/releases/tag/0.1.4) - 2023-02-07
 
 <small>[Compare with 0.1.3](https://github.com/georgieprojie/demo/compare/0.1.3...0.1.4)</small>

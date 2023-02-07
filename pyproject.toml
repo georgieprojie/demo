@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "demo"
+version = "0.1.0"
+description = ""
+authors = ["Demo"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[tool.poetry.group.dev.dependencies]
+git-changelog = "^1.0.0"
+auto-tag = "^0.8.2"
+pre-commit = "^3.0.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
